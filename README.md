@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # kokopis
-@Metaps Dev
+Metaps Inc. Dev
 
 ## PGP public keys:
 - [Personal](/7B1131D8.asc)
