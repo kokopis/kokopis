@@ -23,5 +23,8 @@ Metaps Inc. Dev
 - [Personal](/7B1131D8.asc)
 - [Work](/4ED9A9EC.asc)
 
+## dotfiles
+Look up [gists](https://gist.github.com/kokopis) for dotfiles (& some notes for myself). 
+
 --- 
 
